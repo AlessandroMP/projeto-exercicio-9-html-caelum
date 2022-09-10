@@ -1,0 +1,8 @@
+Os	conteúdos	que	aparecerão	na	página	por	enquanto	serão:
+    A	logo	da	MusicDot
+    O	título	principal	da	página:	"Sobre	a	empresa"
+    Os	textos	sobre	a	empresa,	em	parágrafos
+    O	subtítulo:	"História"
+    Os	textos	sobre	a	história,	em	parágrafos
+    As	figuras	da	empresa	e	da	família.	Lembrando	que	chamamos
+    de	figura	o	conjunto	de	uma	foto e uma	legenda.
